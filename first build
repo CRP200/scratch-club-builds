@@ -1,0 +1,42 @@
+<DOCTYPE html>
+<html>
+<head>
+  <title>
+   lets go CP gaming
+  <title>
+</head>
+<body>
+   <p>HI welcome to the CP gaming hub </p>
+<body>
+</html>
+default;
+    font: small arial,sans-serif;
+    margin: 0;
+    min-width: 360px;
+    min-height: 100%;
+    overflow-x: hidden;
+    text-align: -webkit-center;
+}
+
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+background-attachment:
+scroll
+;
+background-clip:
+border-box
+;
+background-color:
+rgb(255, 255, 255)
+;
+background-image:
+none
+;
+background-origin:
+padding-box
+;
+background-position-x:
+0%
